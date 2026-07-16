@@ -1,7 +1,7 @@
 {
   "os_name": "MouklisOS",
-  "version": "1.0.0",
+  "version": "1.1.5",
   "version_code": 1,
-  "changelog": "الإصدار التجريبي الأول لنظام MouklisOS المكتبي.",
-  "download_url": "https://downloads.sourceforge.net/project/mouklisos/OTA/update_v1.zip"
+  "changelog": "التحديث الهوائي (OTA) الأول لنظام MouklisOS المكتبي. يتضمن تحسينات على اللانشر وإصلاحات للنظام.",
+  "download_url": "https://downloads.sourceforge.net/project/mouklisos/OTA/mouklisos_update_v1.1.5.zip"
 }
