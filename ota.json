@@ -1,13 +1,13 @@
 {
   "os_name": "MouklisOS",
   "channel": "stable",
-  "version": "1.1.6",
-  "version_code": 2,
-  "release_date": "2026-09-21",
+  "version": "1.0.2",
+  "version_code": 4,
+  "release_date": "2026-11-25",
   "update_type": "full",
-  "size": 1290187370,
-  "sha256": "e7690ff2ddffd9c90be599675407485c4f4a2547ea935ac0b7006832a9640945",
-  "changelog": "اختبار أول تحديث A/B لنظام MouklisOS، تطوير محرك تحديث النظام، وتحسين آلية تنزيل التحديث والتحقق منه وتثبيته. يتضمن هذا البناء علامة بصرية مؤقتة باللون الأزرق الغامق للتحقق من نجاح الانتقال إلى الإصدار الجديد.",
-  "download_url": "https://sourceforge.net/projects/mouklisos/files/OTA/mouklisos_update_v1.1.6.zip/download",
-  "ota_property_files": "payload_metadata.bin:1473:135995,payload.bin:1473:1290182462,payload_properties.txt:1290183993:156,apex_info.pb:1426:0,metadata:69:625,metadata.pb:762:616"
+  "size": 1330673960,
+  "sha256": "e9b39cb033c82007c11445ee103b676f7647bb6f89d7e8445c4761397414d033",
+  "changelog": "Mouklis OS 1.0.2 - OTA test release. Visual OTA TEST indicator added to About.",
+  "download_url": "https://sourceforge.net/projects/mouklisos/files/OTA/MouklisOS_Update_v1.0.2.zip/download",
+  "ota_property_files": "payload_metadata.bin:1494:136093,payload.bin:1494:1330669385,payload_properties.txt:1330670937:156,apex_info.pb:1447:0,metadata:69:632,metadata.pb:769:630                   "
 }
