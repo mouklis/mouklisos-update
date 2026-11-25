@@ -1,13 +1,10 @@
 {
   "os_name": "MouklisOS",
   "channel": "stable",
-  "version": "1.0.2",
-  "version_code": 4,
+  "version": "1.0.0",
+  "version_code": 1,
   "release_date": "2026-11-25",
-  "update_type": "full",
-  "size": 1330673960,
-  "sha256": "e9b39cb033c82007c11445ee103b676f7647bb6f89d7e8445c4761397414d033",
-  "changelog": "Mouklis OS 1.0.2 - OTA test release. Visual OTA TEST indicator added to About.",
-  "download_url": "https://sourceforge.net/projects/mouklisos/files/OTA/MouklisOS_Update_v1.0.2.zip/download",
-  "ota_property_files": "payload_metadata.bin:1494:136093,payload.bin:1494:1330669385,payload_properties.txt:1330670937:156,apex_info.pb:1447:0,metadata:69:632,metadata.pb:769:630                   "
+  "update_type": "none",
+  "changelog": "Mouklis OS 1.0.0 - first public release. No OTA update is published yet.",
+  "download_url": "https://sourceforge.net/projects/mouklisos/files/OTA/"
 }
